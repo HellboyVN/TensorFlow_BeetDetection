@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/osboxes/Desktop/tensorflow/train_labels/model.ckpt-343"
+all_model_checkpoint_paths: "/home/osboxes/Desktop/tensorflow/train_labels/model.ckpt-207"
+all_model_checkpoint_paths: "/home/osboxes/Desktop/tensorflow/train_labels/model.ckpt-242"
+all_model_checkpoint_paths: "/home/osboxes/Desktop/tensorflow/train_labels/model.ckpt-277"
+all_model_checkpoint_paths: "/home/osboxes/Desktop/tensorflow/train_labels/model.ckpt-312"
+all_model_checkpoint_paths: "/home/osboxes/Desktop/tensorflow/train_labels/model.ckpt-343"
